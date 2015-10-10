@@ -1,0 +1,369 @@
+MyPair's Log
+
+Oct 18, 2011 12:24:07 AM Program is opened.
+Oct 18, 2011 12:24:07 AM User begin to play MyPair.
+Oct 18, 2011 12:24:14 AM User change deck from cloth to pet.
+Oct 18, 2011 12:24:17 AM User new game.
+Oct 18, 2011 12:24:17 AM User begin to play MyPair.
+Oct 18, 2011 12:24:50 AM User save game.
+Oct 18, 2011 12:24:51 AM Program is closed.
+
+Oct 18, 2011 12:28:06 AM Program is opened.
+Oct 18, 2011 12:28:06 AM User begin to play MyPair.
+Oct 18, 2011 12:28:08 AM User save game.
+Oct 18, 2011 12:28:08 AM Program is closed.
+
+Oct 18, 2011 12:31:37 AM Program is opened.
+Oct 18, 2011 12:31:37 AM User begin to play MyPair.
+Oct 18, 2011 12:31:47 AM User change level from BEGINNER to INTERMEDIATH.
+Oct 18, 2011 12:31:53 AM User change deck from pet to pet.
+Oct 18, 2011 12:32:00 AM User save game.
+Oct 18, 2011 12:32:00 AM Program is closed.
+
+Oct 18, 2011 12:32:01 AM Program is opened.
+Oct 18, 2011 12:32:01 AM User begin to play MyPair.
+Oct 18, 2011 12:32:05 AM User save game.
+Oct 18, 2011 12:32:06 AM Program is closed.
+
+Oct 18, 2011 12:38:23 AM Program is opened.
+Oct 18, 2011 12:38:23 AM User begin to play MyPair.
+Oct 18, 2011 12:39:39 AM User load game.
+Oct 18, 2011 12:39:42 AM User save game.
+Oct 18, 2011 12:39:46 AM User new game.
+Oct 18, 2011 12:39:46 AM User begin to play MyPair.
+Oct 18, 2011 12:39:52 AM User change level from BEGINNER to BEGINNER.
+Oct 18, 2011 12:39:54 AM User change deck from pet to flower.
+Oct 18, 2011 12:39:59 AM User save game.
+Oct 18, 2011 12:40:00 AM Program is closed.
+
+Oct 18, 2011 1:26:20 AM Program is opened.
+Oct 18, 2011 1:26:20 AM User begin to play MyPair.
+Oct 18, 2011 1:26:40 AM User finish game.
+Oct 18, 2011 1:26:47 AM Program is closed.
+
+Oct 18, 2011 1:26:49 AM Program is opened.
+Oct 18, 2011 1:26:49 AM User begin to play MyPair.
+Oct 18, 2011 1:27:03 AM User save game.
+Oct 18, 2011 1:27:04 AM Program is closed.
+
+Oct 18, 2011 1:30:15 AM Program is opened.
+Oct 18, 2011 1:30:15 AM User begin to play MyPair.
+Oct 18, 2011 1:30:16 AM User save game.
+Oct 18, 2011 1:30:17 AM Program is closed.
+
+Oct 18, 2011 1:41:19 AM Program is opened.
+Oct 18, 2011 1:41:19 AM User begin to play MyPair.
+Oct 18, 2011 1:41:24 AM User save game.
+Oct 18, 2011 1:41:24 AM Program is closed.
+
+Oct 18, 2011 2:39:37 AM Program is opened.
+Oct 18, 2011 2:39:37 AM User begin to play MyPair.
+Oct 18, 2011 2:39:42 AM User save game.
+Oct 18, 2011 2:39:42 AM Program is closed.
+
+Oct 18, 2011 2:40:26 AM Program is opened.
+Oct 18, 2011 2:40:26 AM User begin to play MyPair.
+Oct 18, 2011 2:40:31 AM User save game.
+Oct 18, 2011 2:40:32 AM Program is closed.
+
+Oct 18, 2011 2:43:12 AM Program is opened.
+Oct 18, 2011 2:43:12 AM User begin to play MyPair.
+Oct 18, 2011 2:43:14 AM User save game.
+Oct 18, 2011 2:43:15 AM Program is closed.
+
+Oct 18, 2011 2:44:59 AM Program is opened.
+Oct 18, 2011 2:44:59 AM User begin to play MyPair.
+Oct 18, 2011 2:45:01 AM User save game.
+Oct 18, 2011 2:45:02 AM Program is closed.
+
+Oct 18, 2011 2:45:55 AM Program is opened.
+Oct 18, 2011 2:45:55 AM User begin to play MyPair.
+Oct 18, 2011 2:45:58 AM User save game.
+Oct 18, 2011 2:45:59 AM Program is closed.
+
+Oct 18, 2011 2:53:38 AM Program is opened.
+Oct 18, 2011 2:53:38 AM User begin to play MyPair.
+Oct 18, 2011 2:53:44 AM User change level from BEGINNER to INTERMEDIATH.
+Oct 18, 2011 2:53:47 AM User new game.
+Oct 18, 2011 2:53:47 AM User begin to play MyPair.
+Oct 18, 2011 2:53:53 AM User change level from INTERMEDIATH to EXPERT.
+Oct 18, 2011 2:54:01 AM User new game.
+Oct 18, 2011 2:54:01 AM User begin to play MyPair.
+Oct 18, 2011 2:54:16 AM User save game.
+Oct 18, 2011 2:54:16 AM Program is closed.
+
+Oct 18, 2011 2:55:10 AM Program is opened.
+Oct 18, 2011 2:55:10 AM User begin to play MyPair.
+Oct 18, 2011 2:55:14 AM User change level from EXPERT to INTERMEDIATH.
+Oct 18, 2011 2:55:16 AM User new game.
+Oct 18, 2011 2:55:16 AM User begin to play MyPair.
+Oct 18, 2011 2:55:20 AM User save game.
+Oct 18, 2011 2:55:21 AM Program is closed.
+
+Oct 18, 2011 2:55:53 AM Program is opened.
+Oct 18, 2011 2:55:53 AM User begin to play MyPair.
+Oct 18, 2011 2:55:55 AM User save game.
+Oct 18, 2011 2:55:56 AM Program is closed.
+
+Oct 18, 2011 2:56:59 AM Program is opened.
+Oct 18, 2011 2:56:59 AM User begin to play MyPair.
+Oct 18, 2011 2:57:04 AM User save game.
+Oct 18, 2011 2:57:05 AM Program is closed.
+
+Oct 18, 2011 2:57:35 AM Program is opened.
+Oct 18, 2011 2:57:35 AM User begin to play MyPair.
+Oct 18, 2011 2:57:47 AM User save game.
+Oct 18, 2011 2:57:48 AM Program is closed.
+
+Oct 18, 2011 3:30:33 AM Program is opened.
+Oct 18, 2011 3:30:33 AM User begin to play MyPair.
+Oct 18, 2011 3:30:41 AM User save game.
+Oct 18, 2011 3:30:42 AM Program is closed.
+
+Oct 18, 2011 3:30:43 AM Program is opened.
+Oct 18, 2011 3:30:43 AM User begin to play MyPair.
+Oct 18, 2011 3:30:45 AM User load game.
+Oct 18, 2011 3:31:03 AM User save game.
+Oct 18, 2011 3:31:08 AM User load game.
+Oct 18, 2011 3:31:13 AM User change level from INTERMEDIATE to BEGINNER.
+Oct 18, 2011 3:31:20 AM User change deck from flower to cloth.
+Oct 18, 2011 3:31:22 AM User new game.
+Oct 18, 2011 3:31:22 AM User begin to play MyPair.
+Oct 18, 2011 3:31:28 AM User load game.
+Oct 18, 2011 3:31:31 AM User save game.
+Oct 18, 2011 3:31:32 AM Program is closed.
+
+Oct 18, 2011 4:23:05 AM Program is opened.
+Oct 18, 2011 4:23:05 AM User begin to play MyPair.
+Oct 18, 2011 4:23:30 AM User finish game.
+Oct 18, 2011 4:23:34 AM Program is closed.
+
+Oct 18, 2011 4:23:35 AM Program is opened.
+Oct 18, 2011 4:23:35 AM User begin to play MyPair.
+Oct 18, 2011 4:23:44 AM User save game.
+Oct 18, 2011 4:23:44 AM Program is closed.
+
+Oct 18, 2011 4:23:46 AM Program is opened.
+Oct 18, 2011 4:23:46 AM User begin to play MyPair.
+Oct 18, 2011 4:23:48 AM User load game.
+Oct 18, 2011 4:23:50 AM User save game.
+Oct 18, 2011 4:23:51 AM Program is closed.
+
+Oct 18, 2011 4:26:24 AM Program is opened.
+Oct 18, 2011 4:26:24 AM User begin to play MyPair.
+Oct 18, 2011 4:27:48 AM User save game.
+Oct 18, 2011 4:27:49 AM Program is closed.
+
+Oct 18, 2011 4:28:54 AM Program is opened.
+Oct 18, 2011 4:28:54 AM User begin to play MyPair.
+Oct 18, 2011 4:29:15 AM User save game.
+Oct 18, 2011 4:29:16 AM Program is closed.
+
+Oct 18, 2011 4:29:17 AM Program is opened.
+Oct 18, 2011 4:29:17 AM User begin to play MyPair.
+Oct 18, 2011 4:32:09 AM User save game.
+Oct 18, 2011 4:32:10 AM Program is closed.
+
+Oct 18, 2011 4:42:24 AM Program is opened.
+Oct 18, 2011 4:42:25 AM User begin to play MyPair.
+
+Oct 18, 2011 4:45:13 AM Program is opened.
+Oct 18, 2011 4:45:13 AM User begin to play MyPair.
+Oct 18, 2011 4:45:19 AM User change level from BEGINNER to INTERMEDIATE.
+Oct 18, 2011 4:45:22 AM User new game.
+Oct 18, 2011 4:45:22 AM User begin to play MyPair.
+Oct 18, 2011 4:45:30 AM User change level from INTERMEDIATE to EXPERT.
+Oct 18, 2011 4:45:32 AM User new game.
+Oct 18, 2011 4:45:32 AM User begin to play MyPair.
+Oct 18, 2011 4:45:41 AM User change deck from cloth to flower.
+Oct 18, 2011 4:45:43 AM User new game.
+Oct 18, 2011 4:45:43 AM User begin to play MyPair.
+Oct 18, 2011 4:45:51 AM User save game.
+Oct 18, 2011 4:45:52 AM Program is closed.
+
+Oct 18, 2011 4:47:20 AM Program is opened.
+Oct 18, 2011 4:47:20 AM User begin to play MyPair.
+Oct 18, 2011 4:47:25 AM User save game.
+Oct 18, 2011 4:47:25 AM Program is closed.
+
+Oct 18, 2011 4:47:27 AM Program is opened.
+Oct 18, 2011 4:47:27 AM User begin to play MyPair.
+Oct 18, 2011 4:47:29 AM User change level from EXPERT to BEGINNER.
+Oct 18, 2011 4:47:31 AM User new game.
+Oct 18, 2011 4:47:31 AM User begin to play MyPair.
+Oct 18, 2011 4:47:37 AM User save game.
+Oct 18, 2011 4:47:37 AM Program is closed.
+
+Oct 18, 2011 4:47:38 AM Program is opened.
+Oct 18, 2011 4:47:38 AM User begin to play MyPair.
+Oct 18, 2011 4:47:42 AM User save game.
+Oct 18, 2011 4:47:42 AM Program is closed.
+Oct 18, 2011 4:48:08 AM User save game.
+Oct 18, 2011 4:48:09 AM Program is closed.
+
+Oct 18, 2011 4:49:26 AM Program is opened.
+Oct 18, 2011 4:49:26 AM User begin to play MyPair.
+Oct 18, 2011 4:49:31 AM User save game.
+Oct 18, 2011 4:49:31 AM Program is closed.
+
+Oct 18, 2011 5:31:18 AM Program is opened.
+Oct 18, 2011 5:31:18 AM User begin to play MyPair.
+Oct 18, 2011 5:31:22 AM User change level from BEGINNER to INTERMEDIATE.
+Oct 18, 2011 5:31:24 AM User new game.
+Oct 18, 2011 5:31:24 AM User begin to play MyPair.
+Oct 18, 2011 5:31:30 AM User save game.
+Oct 18, 2011 5:31:30 AM Program is closed.
+
+Oct 18, 2011 6:05:23 AM Program is opened.
+Oct 18, 2011 6:05:23 AM User begin to play MyPair.
+Oct 18, 2011 6:05:27 AM User change deck from flower to pet.
+Oct 18, 2011 6:05:30 AM User new game.
+Oct 18, 2011 6:05:30 AM User begin to play MyPair.
+Oct 18, 2011 6:05:34 AM User save game.
+Oct 18, 2011 6:05:34 AM Program is closed.
+
+Oct 18, 2011 6:05:36 AM Program is opened.
+Oct 18, 2011 6:05:36 AM User begin to play MyPair.
+Oct 18, 2011 6:05:38 AM User load game.
+Oct 18, 2011 6:05:45 AM User save game.
+Oct 18, 2011 6:05:47 AM User new game.
+Oct 18, 2011 6:05:47 AM User begin to play MyPair.
+Oct 18, 2011 6:05:49 AM User load game.
+Oct 18, 2011 6:05:55 AM User save game.
+Oct 18, 2011 6:05:55 AM Program is closed.
+
+Oct 18, 2011 6:43:54 AM Program is opened.
+Oct 18, 2011 6:43:54 AM User begin to play MyPair.
+Oct 18, 2011 6:46:01 AM User save game.
+Oct 18, 2011 6:46:02 AM Program is closed.
+
+Oct 18, 2011 6:49:09 AM Program is opened.
+Oct 18, 2011 6:49:09 AM User begin to play MyPair.
+Oct 18, 2011 6:54:26 AM User save game.
+Oct 18, 2011 6:54:28 AM Program is closed.
+
+Oct 18, 2011 6:54:48 AM Program is opened.
+Oct 18, 2011 6:54:48 AM User begin to play MyPair.
+Oct 18, 2011 6:55:19 AM User save game.
+Oct 18, 2011 6:55:23 AM User save game.
+Oct 18, 2011 6:55:26 AM User load game.
+Oct 18, 2011 6:55:29 AM User save game.
+Oct 18, 2011 6:55:29 AM Program is closed.
+
+Oct 18, 2011 6:57:48 AM Program is opened.
+Oct 18, 2011 6:57:48 AM User begin to play MyPair.
+Oct 18, 2011 6:57:49 AM User load game.
+Oct 18, 2011 6:58:03 AM User save game.
+Oct 18, 2011 6:58:03 AM Program is closed.
+
+Oct 18, 2011 7:00:00 AM Program is opened.
+Oct 18, 2011 7:00:00 AM User begin to play MyPair.
+Oct 18, 2011 7:00:04 AM User save game.
+Oct 18, 2011 7:01:21 AM User save game.
+Oct 18, 2011 7:02:55 AM User change level from BEGINNER to BEGINNER.
+Oct 18, 2011 7:16:30 AM User save game.
+Oct 18, 2011 7:16:31 AM Program is closed.
+
+Oct 18, 2011 7:16:58 AM Program is opened.
+Oct 18, 2011 7:16:58 AM User begin to play MyPair.
+Oct 18, 2011 7:18:01 AM Program is closed.
+
+Oct 18, 2011 7:18:04 AM Program is opened.
+Oct 18, 2011 7:18:04 AM User begin to play MyPair.
+Oct 18, 2011 7:20:25 AM User change deck from pet to pet.
+Oct 18, 2011 7:20:36 AM User save game.
+Oct 18, 2011 7:20:36 AM Program is closed.
+
+Oct 18, 2011 7:29:24 AM Program is opened.
+Oct 18, 2011 7:29:24 AM User begin to play MyPair.
+Oct 18, 2011 7:32:47 AM User save game.
+Oct 18, 2011 7:32:48 AM Program is closed.
+
+Oct 18, 2011 7:33:45 AM Program is opened.
+Oct 18, 2011 7:33:45 AM User begin to play MyPair.
+Oct 18, 2011 7:38:12 AM User save game.
+Oct 18, 2011 7:41:12 AM Program is closed.
+
+Oct 18, 2011 7:41:15 AM Program is opened.
+Oct 18, 2011 7:41:15 AM User begin to play MyPair.
+Oct 18, 2011 7:41:52 AM User save game.
+Oct 18, 2011 7:41:52 AM Program is closed.
+
+Oct 18, 2011 7:43:18 AM Program is opened.
+Oct 18, 2011 7:43:18 AM User begin to play MyPair.
+Oct 18, 2011 7:43:20 AM User save game.
+Oct 18, 2011 7:43:20 AM Program is closed.
+
+Oct 18, 2011 7:43:49 AM Program is opened.
+Oct 18, 2011 7:43:49 AM User begin to play MyPair.
+Oct 18, 2011 7:47:25 AM User save game.
+Oct 18, 2011 7:47:26 AM Program is closed.
+
+Oct 18, 2011 7:47:31 AM Program is opened.
+Oct 18, 2011 7:47:31 AM User begin to play MyPair.
+Oct 18, 2011 7:54:01 AM User save game.
+Oct 18, 2011 7:54:01 AM Program is closed.
+
+Oct 18, 2011 9:11:11 AM Program is opened.
+Oct 18, 2011 9:11:11 AM User begin to play MyPair.
+Oct 18, 2011 9:11:14 AM User save game.
+Oct 18, 2011 9:11:14 AM Program is closed.
+
+Oct 18, 2011 12:07:30 PM Program is opened.
+Oct 18, 2011 12:07:30 PM User begin to play MyPair.
+Oct 18, 2011 12:07:34 PM User save game.
+Oct 18, 2011 12:07:34 PM Program is closed.
+
+Oct 18, 2011 12:07:36 PM Program is opened.
+Oct 18, 2011 12:07:36 PM User begin to play MyPair.
+Oct 18, 2011 12:07:37 PM User save game.
+Oct 18, 2011 12:07:38 PM Program is closed.
+
+Oct 18, 2011 1:20:07 PM Program is opened.
+Oct 18, 2011 1:20:07 PM User begin to play MyPair.
+Oct 18, 2011 1:20:11 PM User save game.
+Oct 18, 2011 1:20:12 PM Program is closed.
+
+Oct 18, 2011 1:23:47 PM Program is opened.
+Oct 18, 2011 1:23:47 PM User begin to play MyPair.
+Oct 18, 2011 1:23:51 PM User save game.
+Oct 18, 2011 1:23:52 PM Program is closed.
+
+Dec 28, 2014 9:04:12 PM Program is opened.
+Dec 28, 2014 9:04:12 PM User begin to play MyPair.
+Dec 28, 2014 9:04:21 PM Program is closed.
+
+Jan 8, 2015 11:40:14 PM Program is opened.
+Jan 8, 2015 11:40:14 PM User begin to play MyPair.
+Jan 8, 2015 11:42:58 PM User new game.
+Jan 8, 2015 11:42:58 PM User begin to play MyPair.
+Jan 8, 2015 11:44:16 PM User new game.
+Jan 8, 2015 11:44:16 PM User begin to play MyPair.
+Jan 8, 2015 11:45:46 PM User finish game.
+Jan 8, 2015 11:46:26 PM User new game.
+Jan 8, 2015 11:46:26 PM User begin to play MyPair.
+Jan 8, 2015 11:49:32 PM User save game.
+Jan 8, 2015 11:49:54 PM User new game.
+Jan 8, 2015 11:49:54 PM User begin to play MyPair.
+Jan 8, 2015 11:50:47 PM User load game.
+Jan 8, 2015 11:53:47 PM User new game.
+Jan 8, 2015 11:53:47 PM User begin to play MyPair.
+Jan 8, 2015 11:59:23 PM User new game.
+Jan 8, 2015 11:59:23 PM User begin to play MyPair.
+Jan 9, 2015 12:00:10 AM User save game.
+Jan 9, 2015 12:00:23 AM User new game.
+Jan 9, 2015 12:00:23 AM User begin to play MyPair.
+Jan 9, 2015 12:00:37 AM User load game.
+Jan 9, 2015 12:01:48 AM User save game.
+Jan 9, 2015 12:01:56 AM User new game.
+Jan 9, 2015 12:01:56 AM User begin to play MyPair.
+Jan 9, 2015 12:03:20 AM User load game.
+Jan 9, 2015 12:04:37 AM User change level from BEGINNER to INTERMEDIATE.
+Jan 9, 2015 12:06:06 AM User change deck from pet to sushi.
+Jan 9, 2015 12:07:18 AM User change deck from sushi to sushi.
+Jan 9, 2015 12:14:40 AM User save game.
+Jan 9, 2015 12:14:54 AM Program is closed.
+
+Jan 9, 2015 1:47:46 AM Program is opened.
+Jan 9, 2015 1:47:46 AM User begin to play MyPair.
+Jan 9, 2015 1:49:51 AM Program is closed.
